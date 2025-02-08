@@ -14,7 +14,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
 ["5214774444444", '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿
-["5492266613038"], 
+["5492266613038"], 'Owner (1) 💻' true],
 ["5573031859"],
 ["5218715746374"],
 ["593968585383"],
@@ -225,7 +225,7 @@ message: {
 }}}
 
 
-global.multiplier = 85 // Cuanto más alto, más difícil subir de nivel 
+global.multiplier = 40 // Cuanto más alto, más difícil subir de nivel 
 
 //Emojis RPG - Referencias
 global.rpg = {
